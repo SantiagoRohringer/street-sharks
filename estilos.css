@@ -1,0 +1,20 @@
+.carousel-inner .carousel-item {
+    height: 400px;
+    background-size: cover;
+    background-position: center center;
+  }
+ 
+  .containersinmargin {
+    margin: 0 auto;
+  }
+
+  #sangria {
+    padding-left: 24px;
+  }
+
+  #alturaimg {
+    max-width: 379px;
+    max-height: 380px;
+  }
+  
+ 
